@@ -1,0 +1,41 @@
+[
+    {
+        "ServiceName" : "HTML AND CSS DESIGN",
+        "ServiceIcon": "FaHtml5",
+        "ServiceDetals" :"I am a proficient Front-End Developer specializing in Modern React Development. With six match of hands-on experience in working with React, I find it to be a fascinating programming language that boasts a plethora of resources available on the internet." ,
+        "ServiceBtn": "wahidahmed.ml"
+    },
+    {
+        "ServiceName" : "Tailwind Design",
+        "ServiceIcon": "BiLogoTailwindCss",
+        "ServiceDetals" :"I am a proficient Front-End Developer specializing in Modern React Development. With six match of hands-on experience in working with React, I find it to be a fascinating programming language that boasts a plethora of resources available on the internet." ,
+        "ServiceBtn": "wahidahmed.ml"
+    },
+    {
+        "ServiceName" : "BOOTSTRAP DESIGN",
+        "ServiceIcon": "FaBootstrap",
+        "ServiceDetals" :"I am a proficient Front-End Developer specializing in Modern React Development. With six match of hands-on experience in working with React, I find it to be a fascinating programming language that boasts a plethora of resources available on the internet." ,
+        "ServiceBtn": "wahidahmed.ml"
+    },
+    {
+        "ServiceName" : "WEBFLOW DESIG",
+        "ServiceIcon": "SiWebflow",
+        "ServiceDetals" :"I am a proficient Front-End Developer specializing in Modern React Development. With six match of hands-on experience in working with React, I find it to be a fascinating programming language that boasts a plethora of resources available on the internet." ,
+        "ServiceBtn": "wahidahmed.ml"
+    },
+    {
+        "ServiceName" : "WORDPRESS",
+        "ServiceIcon": "FaWordpressSimple",
+        "ServiceDetals" :"I am a proficient Front-End Developer specializing in Modern React Development. With six match of hands-on experience in working with React, I find it to be a fascinating programming language that boasts a plethora of resources available on the internet." ,
+        "ServiceBtn": "wahidahmed.ml"
+    },
+
+    {
+        "ServiceName" : "SHOPIFY",
+        "ServiceIcon": "FaShopify",
+        "ServiceDetals" :"I am a proficient Front-End Developer specializing in Modern React Development. With six match of hands-on experience in working with React, I find it to be a fascinating programming language that boasts a plethora of resources available on the internet." ,
+        "ServiceBtn": "wahidahmed.ml"
+    }
+
+
+]

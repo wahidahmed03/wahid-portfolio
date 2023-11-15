@@ -1,0 +1,24 @@
+[
+    {
+        "platfrom" :"UPEORK",
+        "link": "https://www.upwork.com/",
+        "icon":"https://w7.pngwing.com/pngs/80/704/png-transparent-upwork-hd-logo.png"
+       }
+    ,
+    {
+        "platfrom" :"FIVER",
+        "link": "https://www.fiverr.com/",
+        "icon":"https://scontent.fdac24-1.fna.fbcdn.net/v/t39.30808-6/347252899_593040823009564_5473441091605411475_n.png?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=w94JPYwIj64AX9Sku5z&_nc_ht=scontent.fdac24-1.fna&oh=00_AfAypAPudSSKo74WqIbftlexjDHpIIYSrWmiCPb_Hc12VA&oe=655979D4"
+       }
+    ,
+    {
+        "platfrom" :"BEHANCE",
+        "link": "https://www.behance.net/wahidahmed5",
+        "icon":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7O32EU-u_EsQND4HafxASWxkGMjulzSADag&usqp=CAU"
+    },
+    {
+        "platfrom" :"figma",
+        "link": "https://www.figma.com/@wahidahmed",
+        "icon":"https://i.pinimg.com/originals/56/67/67/56676773cb4f0c00d7d47c6a84b9407c.png"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "serviceName": "WORDPRESS",
+        "ServiceIcon":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1200px-WordPress_blue_logo.svg.png"
+    },
+    {
+        "serviceName": "WEBFLOW",
+        "ServiceIcon":"https://cdn.icon-icons.com/icons2/2699/PNG/512/webflow_logo_icon_169218.png"
+    },
+    {
+        "serviceName": "SHOPIFY",
+        "ServiceIcon":"https://logosandtypes.com/wp-content/uploads/2020/11/Shopify.png"
+    },
+    {
+        "serviceName": "ELEMATOR",
+        "ServiceIcon":"https://elementor.com/marketing/wp-content/uploads/2021/10/Elementor-Logo-Symbol-Red.svg"
+    }
+
+]

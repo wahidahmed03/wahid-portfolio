@@ -1,0 +1,33 @@
+[
+    {
+      "platform": "Facebook",
+      "iconName": "FaFacebook",
+      "link": "https://www.facebook.com/wahidahmed.dev"
+    },
+    {
+        "platform": "linkedin",
+        "iconName": "FaLinkedinIn",
+        "link": "https://www.linkedin.com/in/wahid-ahmed-3b4397268/"
+      },
+      {
+      "platform": "youtuve",
+      "iconName": "FaYoutube",
+      "link": "https://www.youtube.com/channel/UCJ5vIRPgRw2XjkI8gog8TCQ"
+    },
+    {
+      "platform": "Twitter",
+      "iconName": "FaTwitter",
+      "link": "https://twitter.com/WAHIDAHMED02"
+    },
+    {
+      "platform": "Instagram",
+      "iconName": "FaInstagram",
+      "link": "https://www.instagram.com/wahidahmed02/"
+    },
+    {
+        "platform": "blogger",
+        "iconName": "FaBloggerB",
+        "link": "https://wahid-ahmed.webflow.io/"
+      }
+  ]
+  
